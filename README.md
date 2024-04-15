@@ -1,7 +1,5 @@
-En introduction de mon projet de site je vous présente ici mes documents de travail.  
-Dans le repository se trouvent les pdf de ceux-ci,  
-ou bien vous pouvez y accéder aux url suivantes :
-
+Ce dossier comporte la documentation en pdf de mon site Kerblei.  
+Vous pouvez également y accéder via les liens suivants :
 Présentation du projet / CDC :  
 https://www.canva.com/design/DAF-_-NihV8/gtlrUKFPszut-QdIiyUjQQ/edit?utm_content=DAF-_-NihV8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
