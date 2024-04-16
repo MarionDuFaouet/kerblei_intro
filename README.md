@@ -10,6 +10,6 @@ Maquette et wireframe Figma :
 https://www.figma.com/file/WDg79u9UGGRM7Kz5HHhtoy/KERBLEI?type=design&node-id=2%3A2&mode=dev&t=JvR6zvfKg618ej94-1  
 
 Et enfin, le site : 
-http://greta-bretagne-sud.fr/stagiaires-kercode/marion-lozach/kerblei/  
+https://greta-bretagne-sud.fr/stagiaires-kercode/marion-lozach/kerblei/  
 
 Bonne lecture !
